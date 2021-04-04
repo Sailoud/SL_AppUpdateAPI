@@ -1,8 +1,10 @@
-【版本名】1.7.12【版本名】
-【版本】64【版本】
+【版本名】1.7.13【版本名】
+【版本】65【版本】
 【内容】
-新增防封官网
+1.更新归队指路碑
+2.优化流畅度
+3.新增“游戏区”官方Telegram频道和群组的加入链接
 
 如果遇到不能下载的，请到www.vicacg.com官网下载！
 【内容】
-【链接】https://www.vicacg.com/res/VikACG_1.7.12-signed.apk【链接】
+【链接】https://www.vicacg.com/res/VikACG_1.7.13-signed.apk【链接】
