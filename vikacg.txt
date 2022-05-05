@@ -1,8 +1,9 @@
-【版本名】1.8.0【版本名】
-【版本】70【版本】
+【版本名】1.9.0【版本名】
+【版本】80【版本】
 【内容】
-全新升级
+1.修复新版登录下存在的问题
+2.原1.X版维咔App全新升级为维咔极速版，2.0即将发布，敬请期待！！！
 
 如果遇到不能下载的，请到www.vicacg.com官网下载！
 【内容】
-【链接】https://www.vicacg.com/res/VikACG_1.8.0_release-signed.apk【链接】
+【链接】https://www.vicacg.com/res/VikACG_1.9.0_release-signed.apk【链接】
