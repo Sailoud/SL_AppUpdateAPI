@@ -1,7 +1,6 @@
-【版本名】4.1.10【版本名】
-【版本】1047【版本】
+【版本名】4.1.11【版本名】
+【版本】1048【版本】
 【内容】
-1. 现在APP支持外链跳转页了，再也不用去浏览器上跳转了
-2. 修复了一些已知问题
+1. Fix some bugs and improve the user experience.
 【内容】
-【链接】https://dl.vikacg.icu/android/main/native_1047.apk【链接】
+【链接】https://dl.vikacg.icu/android/main/native_1048.apk【链接】
