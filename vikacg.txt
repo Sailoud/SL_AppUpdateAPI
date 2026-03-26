@@ -1,6 +1,6 @@
-【版本名】4.2.7【版本名】
+【版本名】4.2.8【版本名】
 【版本】99【版本】
 【内容】
 1. Fix some bugs and improve the user experience.
 【内容】
-【链接】https://dl.vikacg.icu/android/main/native_1060.apk【链接】
+【链接】https://dl.vikacg.icu/android/main/native_1061.apk【链接】
