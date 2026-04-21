@@ -1,8 +1,7 @@
-【版本名】4.3.1【版本名】
+【版本名】4.3.2【版本名】
 【版本】99【版本】
 【内容】
-1. 漫画阅读新增左右翻页模式
-2. QR扫描器能力强化
-3. 修复了若干已知问题
+1. 漫画阅读可以音量键翻页
+2. 修复了一些已知问题
 【内容】
-【链接】https://dl.vikacg.icu/android/main/native_1064.apk【链接】
+【链接】https://dl.vikacg.icu/android/main/native_1065.apk【链接】
