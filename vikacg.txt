@@ -5,4 +5,4 @@
 2. 圈子首页新增关注流，可以查看加入的圈子，以及关注的人发布的帖子
 3. 提升连接稳定性
 【内容】
-【链接】https://dl.vikacg.cc/android/main/native_1101.apk【链接】
+【链接】https://dl.vikacg.cc/android/main/native_1102.apk【链接】
