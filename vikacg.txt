@@ -1,6 +1,7 @@
-【版本名】4.6.1【版本名】
+【版本名】4.6.2【版本名】
 【版本】99【版本】
 【内容】
-1. Fix some bugs and improve the user experience.
+1. 修复多项安全问题
+2. 修复圈子滑动问题
 【内容】
-【链接】https://dl.vikacg.cc/android/main/native_1104.apk【链接】
+【链接】https://dl.vikacg.cc/android/main/native_1105.apk【链接】
